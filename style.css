@@ -1,0 +1,17 @@
+body 
+
+img {width: 250px;
+height: 120px;}
+
+ul {list-style-type: style none;}
+
+li {color: rgb(8, 8, 8);}
+
+h1 {color: rgb(21, 248, 1);
+font-size: 25px;}
+
+h2 {color: red;
+font-size: 15px;}
+
+p {color: rgba(0, 0, 0, 0.849);
+font-size: 12px;}
